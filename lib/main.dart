@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
                 'Paridhi Shrivastava',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
-                  fontSize: 22.0,
+                  fontSize: 33.0,
                   color: Colors.white,
                   fontWeight: FontWeight.bold
                 ),
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(
                   fontFamily: 'Source Sans Pro',
                   color: Colors.teal.shade100,
-                  fontSize: 12.0,
+                  fontSize: 17.0,
                   letterSpacing: 2.5,
                   fontWeight: FontWeight.bold,
                 ),
@@ -57,7 +57,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                           color: Colors.teal.shade900,
                           fontFamily: 'Source Sans Pro',
-                          fontSize: 15.0
+                          fontSize: 18.0
                       ),
                     ),
                   )
@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                           color: Colors.teal.shade900,
                           fontFamily: 'Source Sans Pro',
-                          fontSize: 15.0
+                          fontSize: 18.0
                       ),
                     ),
                   )
